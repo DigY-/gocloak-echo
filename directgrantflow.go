@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Nerzal/gocloak/v4"
-	"github.com/Nerzal/gocloak/v4/pkg/jwx"
+	"github.com/DigY-/gocloak/v4"
+	"github.com/DigY-/gocloak/v4/pkg/jwx"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo/v4"
 )
