@@ -1,6 +1,8 @@
 github.com/DigY-/gocloak/v4 v4.0.0-20200127085954-059aa5841dc3/go.mod h1:sMFTJvqcVOUeDWGbG6naVFF156Nyk5DlHKoJ+D8NhYw=
 github.com/DigY-/gocloak/v4 v4.0.0-20200127091456-7702e4c4599d h1:up5imi/F6fOri8vUNlQQldAy0cipP4FqIfJBq2aQJjI=
 github.com/DigY-/gocloak/v4 v4.0.0-20200127091456-7702e4c4599d/go.mod h1:p41JmqnQkoGRJvHCk/vA08PQb/rg0A7omgIHQLOWcKE=
+github.com/DigY-/gocloak/v4 v4.0.0-20200127124507-47d4a22ec36c h1:aQ1QubQKvidCvGX83Uxiq2q0ZFOvSGhO6MOoTj/jvQ0=
+github.com/DigY-/gocloak/v4 v4.0.0-20200127124507-47d4a22ec36c/go.mod h1:p41JmqnQkoGRJvHCk/vA08PQb/rg0A7omgIHQLOWcKE=
 github.com/DigY-/jwt-go v3.2.0+incompatible/go.mod h1:vW3i1zH3bvJaKEyzPHsnHNEFRl3wijTohK01gsRIpKo=
 github.com/Nerzal/gocloak v1.0.0 h1:WllsbIu1dYvdvka1/BbY7khZBJSTjSkGwyDsHHLQmIw=
 github.com/Nerzal/gocloak/v4 v4.5.0 h1:WWnB/z0eSIMk3BNfRCVJsCTlqYXcAiLACo0b0qQsNm8=
@@ -14,6 +16,8 @@ github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1 h1:CaO/zOnF8VvUfEbhRatPcwKVWamvbY
 github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1/go.mod h1:+hnT3ywWDTAFrW5aE+u2Sa/wT555ZqwoCS+pk3p6ry4=
 github.com/go-resty/resty/v2 v2.0.0 h1:9Nq/U+V4xsoDnDa/iTrABDWUCuk3Ne92XFHPe6dKWUc=
 github.com/go-resty/resty/v2 v2.0.0/go.mod h1:dZGr0i9PLlaaTD4H/hoZIDjQ+r6xq8mgbRzHZf7f2J8=
+github.com/go-resty/resty/v2 v2.1.0 h1:Z6IefCpUMfnvItVJaJXWv/pMiiD11So35QgwEELsldE=
+github.com/go-resty/resty/v2 v2.1.0/go.mod h1:dZGr0i9PLlaaTD4H/hoZIDjQ+r6xq8mgbRzHZf7f2J8=
 github.com/labstack/echo/v4 v4.1.10 h1:/yhIpO50CBInUbE/nHJtGIyhBv0dJe2cDAYxc3V3uMo=
 github.com/labstack/echo/v4 v4.1.10/go.mod h1:i541M3Fj6f76NZtHSj7TXnyM8n2gaodfvfxNnFqi74g=
 github.com/labstack/gommon v0.3.0 h1:JEeO0bvc78PKdyHxloTKiF8BD5iGrH8T6MSeGvSgob0=
@@ -40,6 +44,8 @@ golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3 h1:0GoQqolDA55aaLxZyTzK/Y2eP
 golang.org/x/net v0.0.0-20190404232315-eb5bcb51f2a3/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/net v0.0.0-20190628185345-da137c7871d7 h1:rTIdg5QFRR7XCaK4LCjBiPbx8j4DQRpdYMnGn/bJUEU=
 golang.org/x/net v0.0.0-20190628185345-da137c7871d7/go.mod h1:z5CRVTTTmAJ677TzLLGU+0bjPO0LkuOLi4/5GtJWs/s=
+golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa h1:F+8P+gmewFQYRk6JoLQLwjBCTu3mcIURZfNkVweuRKA=
+golang.org/x/net v0.0.0-20200114155413-6afb5195e5aa/go.mod h1:z5CRVTTTmAJ677TzLLGU+0bjPO0LkuOLi4/5GtJWs/s=
 golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20190222072716-a9d3bda3a223/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
 golang.org/x/sys v0.0.0-20190412213103-97732733099d/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
