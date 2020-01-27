@@ -6,7 +6,7 @@ import (
 
 	"github.com/DigY-/gocloak/v4"
 	"github.com/DigY-/gocloak/v4/pkg/jwx"
-	"github.com/dgrijalva/jwt-go"
+	"github.com/dgrijalva/jwt-go/v4"
 	"github.com/labstack/echo/v4"
 )
 
